@@ -4,7 +4,7 @@
   </a>
   <h1>파이썬 머신러닝 완벽 가이드</h1>
   <div>
-    <img src="https://img.shields.io/badge/저자-사이토%고키-e76f51?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/저자-사이토%20고키-e76f51?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/출판사-한빛미디어-faa307?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/기간-2019.10%20~%202020.02-52b788?style=for-the-badge"/>
   </div>
